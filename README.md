@@ -1,10 +1,14 @@
 # Warung Rush
 
+[![make.fun · best-game-01](https://make.fun/badge/best-game-01.svg)](https://make.fun/bounty/best-game-01?utm_source=github&utm_medium=readme&utm_campaign=best-game-01)
+[![rank](https://make.fun/badge/best-game-01/Tokocrypto96/warung-rush/rank.svg)](https://make.fun/bounty/best-game-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-game-01)
+[![reward](https://make.fun/badge/best-game-01/Tokocrypto96/warung-rush/reward.svg)](https://make.fun/bounty/best-game-01?utm_source=github&utm_medium=readme&utm_campaign=best-game-01)
+
 Kamu juru masak warung! Pelanggan datang, pesan makanan, dan kamu harus
 masak lalu antar sebelum mereka kehabisan sabar. Capai target koin sebelum
 waktu habis — kalau 3 pelanggan kabur, warung tutup.
 
-Entry for make.fun **best-game-01** ("Make the best game").
+Entry for [make.fun **best-game-01**](https://make.fun/bounty/best-game-01) ("Make the best game", $1,000 in USDC).
 
 ## Cara main
 
