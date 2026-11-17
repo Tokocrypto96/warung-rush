@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="id">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Warung Rush</title>
+<style>
+  html, body { margin: 0; padding: 0; background: #2A1A12; min-height: 100vh; }
+  body { display: flex; align-items: center; justify-content: center; font-family: sans-serif; }
+  #wrap { text-align: center; padding: 12px; }
+  canvas {
+    width: min(960px, 96vw);
+    height: auto;
+    border-radius: 12px;
+    box-shadow: 0 12px 40px rgba(0, 0, 0, 0.55);
+    background: #FFF6E5;
+    display: block;
+  }
+  p { color: #C9BBA6; font-size: 13px; margin: 10px 0 0; }
+</style>
+</head>
+<body>
+<div id="wrap">
+  <canvas id="game" width="960" height="600"></canvas>
+  <p>Warung Rush — masak, antar, jangan sampai pelanggan kabur.</p>
+</div>
+<script src="src/config.js"></script>
+<script src="src/audio.js"></script>
+<script src="src/state.js"></script>
+<script src="src/customers.js"></script>
+<script src="src/kitchen.js"></script>
+<script src="src/render.js"></script>
+<script src="src/input.js"></script>
+<script src="src/main.js"></script>
+</body>
+</html>
